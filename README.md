@@ -7,7 +7,10 @@ Api's used:
 
 2 - Sheety - https://sheety.co/
 
-3 - https://www.twilio.com/
+3 - Twillio - https://www.twilio.com/
+
+Google sheet used to keep track of the flights: https://docs.google.com/spreadsheets/d/1TAlUFweH4PmKo0Ud9IAlswPp2iDbd3BbANhuELUKfyg/edit?usp=sharing
+
 
 ![ex1](https://user-images.githubusercontent.com/86790253/234077559-78ea4867-b503-483a-9c8c-375712d95835.jpg)
 ![ex2](https://user-images.githubusercontent.com/86790253/234077574-8a7a07cf-73ce-46e2-a16f-dc7684797ee8.jpg)
